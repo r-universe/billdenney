@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "formulops"]
+	path = formulops
+	url = https://github.com/billdenney/formulops
+	shallow = true
+	registered = true
+[submodule "PKNCA"]
+	path = PKNCA
+	url = https://github.com/billdenney/pknca
+	shallow = true
+	registered = true

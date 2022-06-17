@@ -1,0 +1,10 @@
+[
+  {
+    "package": "formulops",
+    "oncran": true
+  },
+  {
+    "package": "PKNCA",
+    "oncran": true
+  }
+]
