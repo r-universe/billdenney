@@ -1,5 +1,9 @@
 [
   {
+    "package": "equil2",
+    "oncran": true
+  },
+  {
     "package": "formulops",
     "oncran": true
   },
