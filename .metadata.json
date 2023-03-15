@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "PKNCA",
+    "package": "formulops",
     "oncran": true
   },
   {
-    "package": "formulops",
+    "package": "PKNCA",
     "oncran": true
   }
 ]
