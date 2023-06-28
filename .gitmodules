@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "equil2"]
 	path = equil2
 	url = https://github.com/billdenney/equil2
-	shallow = true
-	registered = true
 [submodule "formulops"]
 	path = formulops
 	url = https://github.com/billdenney/formulops
-	shallow = true
-	registered = true
 [submodule "PKNCA"]
 	path = PKNCA
 	url = https://github.com/billdenney/pknca
-	shallow = true
-	registered = true
