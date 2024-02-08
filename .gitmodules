@@ -14,3 +14,6 @@
 [submodule "geboes.score"]
 	path = geboes.score
 	url = https://github.com/billdenney/geboes.score
+[submodule "ggtibble"]
+	path = ggtibble
+	url = https://github.com/billdenney/ggtibble
