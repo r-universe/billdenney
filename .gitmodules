@@ -17,6 +17,3 @@
 [submodule "ggtibble"]
 	path = ggtibble
 	url = https://github.com/billdenney/ggtibble
-[submodule "hidradenitis"]
-	path = hidradenitis
-	url = https://github.com/billdenney/hidradenitis
