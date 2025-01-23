@@ -8,9 +8,6 @@
 [submodule "equil2"]
 	path = equil2
 	url = https://github.com/billdenney/equil2
-[submodule "formulops"]
-	path = formulops
-	url = https://github.com/billdenney/formulops
 [submodule "geboes.score"]
 	path = geboes.score
 	url = https://github.com/billdenney/geboes.score
